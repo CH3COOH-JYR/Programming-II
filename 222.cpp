@@ -1,1 +1,1 @@
-#include <fuck>
+#include <iostream>
