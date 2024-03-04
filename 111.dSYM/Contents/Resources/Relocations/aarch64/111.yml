@@ -1,0 +1,13 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/renxuanyu/Documents/GitHub/Programming-II/111'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003D78, symSize: 0x48 }
+  - { offsetInCU: 0x39, offset: 0x39, size: 0x8, addend: 0x0, symName: __ZN1a2aaE, symObjAddr: 0x1C4, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x4644, offset: 0x4644, size: 0x8, addend: 0x0, symName: __ZNSt3__14endlB7v160006IcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_, symObjAddr: 0x74, symBinAddr: 0x100003DEC, symSize: 0x58 }
+  - { offsetInCU: 0x4684, offset: 0x4684, size: 0x8, addend: 0x0, symName: __ZNSt3__19use_facetB7v160006INS_5ctypeIcEEEERKT_RKNS_6localeE, symObjAddr: 0x150, symBinAddr: 0x100003EC8, symSize: 0x2C }
+  - { offsetInCU: 0x6F97, offset: 0x6F97, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003D78, symSize: 0x48 }
+  - { offsetInCU: 0x706C, offset: 0x706C, size: 0x8, addend: 0x0, symName: __ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsB7v160006EPFRS3_S4_E, symObjAddr: 0x48, symBinAddr: 0x100003DC0, symSize: 0x2C }
+  - { offsetInCU: 0x709E, offset: 0x709E, size: 0x8, addend: 0x0, symName: __ZNKSt3__19basic_iosIcNS_11char_traitsIcEEE5widenB7v160006Ec, symObjAddr: 0xCC, symBinAddr: 0x100003E44, symSize: 0x84 }
+  - { offsetInCU: 0x710A, offset: 0x710A, size: 0x8, addend: 0x0, symName: __ZNKSt3__15ctypeIcE5widenB7v160006Ec, symObjAddr: 0x17C, symBinAddr: 0x100003EF4, symSize: 0x38 }
+...
